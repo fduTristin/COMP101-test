@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as t}from"./chunks/framework.x02D3-nQ.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux-and-shell/index.md","filePath":"linux-and-shell/index.md"}'),a={name:"linux-and-shell/index.md"};function s(r,d,i,o,l,c){return t(),n("div")}const x=e(a,[["render",s]]);export{_ as __pageData,x as default};
